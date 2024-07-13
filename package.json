@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.16.0",
+    "@mui/x-data-grid-generator": "^7.10.0",
+    "@mui/x-data-grid-premium": "^7.10.0",
+    "@react-firebase/auth": "^0.2.10",
+    "@react-firebase/database": "^0.3.11",
+    "firebase": "^10.12.3",
+    "next": "14.2.4",
+    "papaparse": "^5.4.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
