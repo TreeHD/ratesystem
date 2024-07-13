@@ -2,6 +2,8 @@
 
 import { resolve } from "styled-jsx/css";
 
+
+export const runtime = 'edge';
 export default async function handler(req, res) {
     const body = req.body;
     const query = req.query;
